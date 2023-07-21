@@ -274,8 +274,8 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  /* background: url("../img/hero-bg.jpg") top right no-repeat ; */
-  background: #0678e3;
+  background: url("../img/portfolio/earth.jpg") top right no-repeat ;
+  /* background: #0a7ce8; */
   background-size:cover;
   /* background-position: center; */
   position: relative;
@@ -286,6 +286,7 @@ h6 {
     padding-left: 160px;
   }
 }
+
 
 #hero:before {
   content: "";
